@@ -15,4 +15,4 @@ const produtosJSON = `{
 }`;
     
 const resultado = filtrarProdutos(produtosJSON);
-console.log(resultado);
+console.log(resultado); //saída
