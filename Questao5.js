@@ -10,7 +10,15 @@ function processarPedidos(dados){
     let processamento= 0;
     let ValorTotal = 0;
 
-for const
+for (const pedido of pedido){
+    totalValue += pedido.total;
+    if(pedido.status === "entregues"){
+        entreguesCount++;
+    }
 }
+const formattedTotal = totalValue.toFixed(2)replace('-','-');
+    return `${entreguesConst} pedidos entrgues,$ {processarPedidosCount} em processamento.Valorz
+total: ${formattedTotal}`;
 
-
+const resultado = processarPedidos(pedidoJSON);
+    console.log(resultado);
