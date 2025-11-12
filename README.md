@@ -12,8 +12,7 @@
 
 | Termo                                | Significado simples                                              |
 | ------------------------------------ | ---------------------------------------------------------------- |
-| **CONST**                            |{AQUI DENTRO IRAM FICAR OS OBJETOS CRIADOS EX: NOME, IDADE , ROUPA,
-|                                           ETC};                |
+| **CONST**                            |{AQUI DENTRO IRAM FICAR OS OBJETOS CRIADOS EX: NOME, IDADE , ETC};                                                          |
 | **Const JsonString**                 |JSON.stringify(LAR):Converte o objeto JavaScript LAR em uma string JSON|
 
 ---
